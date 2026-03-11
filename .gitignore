@@ -5,6 +5,7 @@
 *.tar.gz
 *.jpg
 *.json
+*.xml
 
 # Template configuration from github
 # Byte-compiled / optimized / DLL files
