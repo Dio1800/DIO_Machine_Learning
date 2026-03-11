@@ -7,3 +7,4 @@ Each folder name starts with the sequential number following the course order.
 - Challenge 2 - Apply dimensionality reduction to one image. 
 - Challenge 3 - Calculate evaluation metrics for classification model using confusion matrix.
 - Challenge 4 - Yolo Detection
+- Challenge 5 - Face Detection
