@@ -1,5 +1,5 @@
 # Folder '3 - Classification metrics' 
-Has the python code to Calculate evaluation metrics for a classification model using confusion matrix.
+Python code to calculate evaluation metrics for a classification model using confusion matrix.
 
     - Sensitivity or recall, or true positive rate = correct positive classifications / real total positive = TP / TP + FN
 ```math
