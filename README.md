@@ -8,3 +8,5 @@ Each folder name starts with the sequential number following the course order.
 - Challenge 3 - Calculate evaluation metrics for classification model using confusion matrix.
 - Challenge 4 - Yolo Detection
 - Challenge 5 - Face Detection
+- Challenge 6 - AI Product Recommendation
+- Challenge 7 - Natural Language Processing
