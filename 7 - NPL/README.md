@@ -1,6 +1,6 @@
-# Folder '5 - NLP' 
+# Folder '7 - NLP' 
 
-Python code for Natural Language Processing. It includes Speech-to-text  and Text-to-Speech operations using speech_recognition
+Python code for Natural Language Processing. It includes Speech-to-text  and Text-to-Speech operations using speech_recognition library
 
 Original files: 
 * https://github.com/diegobrunoDIO/Text-to-Speech-DIO
