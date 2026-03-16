@@ -1,6 +1,4 @@
-# Folder '4 - Yolo Detection' 
-
-# Run Yolo v3 segmentation
+# Folder '4 - Yolo Segmentation' 
 Run Yolo segmentation on images from cocodataset.org
 
 ## Colab File - Aborted
